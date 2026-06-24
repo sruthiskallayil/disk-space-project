@@ -10,4 +10,5 @@ whoami
 
 df -h
 
-echo "check report completed 
+echo "check report completed"
+ 
