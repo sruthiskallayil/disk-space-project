@@ -2,7 +2,11 @@
 
 echo "check disk space "
 
+echo " current date"
 date
+
+echo "current user:"
+whoami
 
 df -h
 
