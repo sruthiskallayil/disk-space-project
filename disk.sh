@@ -1,14 +1,15 @@
+
+ 
 #!/bin/bash
 
-echo "check disk space "
+echo "===== Disk Space Report ====="
 
-echo " current date"
+echo "Current Date:"
 date
 
-echo "current user:"
+echo "Current User:"
 whoami
 
 df -h
 
-echo "check report completed"
- 
+echo "===== Report Completed ====="
